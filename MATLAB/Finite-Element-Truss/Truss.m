@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% 01702979 Jaimin Luke Symonds Patel (10/03/2021)                %%%
+%%% Jaimin Luke Symonds Patel (10/03/2021)                %%%
 %%% Computational Methods Spring Coursework                        %%%
 %%% Collapse of a redundant truss by incremental elastic analysis  %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
